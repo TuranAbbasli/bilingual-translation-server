@@ -18,4 +18,3 @@ table;table
 music;musique  
 rain;pluie  
 fire;feu
-turan;sanan
